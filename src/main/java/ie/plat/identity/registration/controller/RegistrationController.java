@@ -14,7 +14,7 @@ public class RegistrationController {
 
     @PostMapping
     public ResponseEntity<Void> registerUser(@Valid UserDTO userDTO){
-
+        //
         return null;
     }
 }
