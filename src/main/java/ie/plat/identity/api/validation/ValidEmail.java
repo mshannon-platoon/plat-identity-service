@@ -1,4 +1,4 @@
-package ie.plat.identity.registration.validation;
+package ie.plat.identity.api.validation;
 
 import javax.validation.Constraint;
 import java.lang.annotation.Documented;
